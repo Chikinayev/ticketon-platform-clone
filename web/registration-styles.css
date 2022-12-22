@@ -1,0 +1,45 @@
+body {
+  background-image: url('http://ticketon.kz/user/dist/images/login-bg.png?0619386f8b0a5fb13ddf95f699b0cbdd');
+}
+
+.main {
+  margin-top: 330px;
+  width: 539px;
+  text-align: center;
+}
+
+.title {
+  font-size: 19.2px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+
+input {
+  width: 100%;
+  border-radius: 1.5rem;
+  height: 2.5rem;
+  border: 1px solid #ced4da;
+  padding: 6px 12px; 
+}
+
+.sign-up-link {
+  text-align: left;
+}
+
+a {
+  font-size: 12.8px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  color: #fe7400;
+}
+
+.submit {
+  background-color: #fe7400;
+  color: #fff!important;
+  border-radius: 1.5rem;
+  border: none;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.submit:hover {
+  background-color: #d76200;
+}
